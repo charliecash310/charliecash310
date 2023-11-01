@@ -16,7 +16,7 @@ Literally the one skill I've had a love-hate relationship with and it took me al
 
 - <b> Linux </b> (Kali/Parrot)
 
-<h2>Program walk-through:</h2>
+<h2>Projects: </h2>
 
 <p align="center">
 Managing Risk: <br/>
