@@ -14,7 +14,7 @@ Literally the one skill I've had a love-hate relationship with and it took me al
 
 <h2>Environments Used </h2>
 
-- <b> Linux </b> (21H2)
+- <b> Linux </b> (Kali/Parrot)
 
 <h2>Program walk-through:</h2>
 
