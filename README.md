@@ -27,7 +27,7 @@ Network Security:  <br/>
 <img src=""/>
 <br />
 <br />
-Linux // SQL: <br/>
+Linux // Suricata: <br/>
 <img src="https://i.imgur.com/GSCddOA.png"/>
 <br />
 <br />
