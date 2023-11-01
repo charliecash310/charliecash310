@@ -28,7 +28,7 @@ Network Security:  <br/>
 <br />
 <br />
 Linux // SQL: <br/>
-<img src=""/>
+<img src="https://i.imgur.com/GSCddOA.png"/>
 <br />
 <br />
 Vulnerability Management:  <br/>
