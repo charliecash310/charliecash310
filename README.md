@@ -12,7 +12,7 @@ Literally the one skill I've had a love-hate relationship with and it took me al
 - <b> Bash CLI </b> 
 - <b> Python </b>
 
-<h2>Environments Used </h2>
+<h2><b> Environments Used </b></h2>
 
 - <b> Linux </b> (Kali/Parrot)
 
