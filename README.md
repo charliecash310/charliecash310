@@ -35,8 +35,8 @@ Network Security: <br/>
 
 Linux: <br/>
 <!-- <img src=""/> -->
-<b> CLI Navigation </b>
-<b> File and Directory Management </b>
+- CLI Navigation
+- File and Directory Management
 <br />
 <br />
 
@@ -51,23 +51,22 @@ Vulnerability Management:  <br/>
 
 Incident Response:  <br/>
 <!-- <img src=""/> -->
-<b> Contain, Eradicate, and Recover from an Incident </b>
-<b> Analyze packets to interpret network communications </b>
-<b> Perform Queries in Security Information and Event Management </b>
+- Contain, Eradicate, and Recover from an Incident
+- Analyze packets to interpret network communications
+- Perform Queries in Security Information and Event Management
 <br />
 <br />
 
 Python Programming:  <br/>
 <!-- <img src=""/> -->
-<b> Explain how the Python programming language is used in Information Security </b>
-<b> Use regular expressions to extract information from text </b>
+- Explain how the Python programming language is used in Information Security
+- Use regular expressions to extract information from text
 <br />
 <br />
 
-Projects  <br/>
-Putting It all to work:  <br/>
+Projects // Putting It all to work:  <br/>
 <!-- <img src=""/> -->
-<b> TBD </b>
+-- TBD --
 </p>
 
 <!--
