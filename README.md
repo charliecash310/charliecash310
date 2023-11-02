@@ -1,8 +1,5 @@
 <h1> About Me </h1>
 
- ### 
-
-<h2>Description</h2>
 Literally the one skill I've had a love-hate relationship with and it took me all this time to make a lousy portfolio with a cliche statement. 
 <br />
 
