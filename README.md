@@ -31,13 +31,11 @@ Network Security: <br/>
 - Illustrate how data is sent and received over a network
 - Secure a network against intrusion tactics
 <br />
-<br />
 
 Linux: <br/>
 <!-- <img src=""/> -->
 - CLI Navigation
 - File and Directory Management
-<br />
 <br />
 
 Vulnerability Management:  <br/>
@@ -47,14 +45,12 @@ Vulnerability Management:  <br/>
 - Analyze attack surface
 - Summarize the Threat Modeling Process
 <br />
-<br />
 
 Incident Response:  <br/>
 <!-- <img src=""/> -->
 - Contain, Eradicate, and Recover from an Incident
 - Analyze packets to interpret network communications
 - Perform Queries in Security Information and Event Management
-<br />
 <br />
 
 Python Programming:  <br/>
