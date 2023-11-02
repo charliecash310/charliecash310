@@ -59,6 +59,7 @@ Incident Response:  <br/>
 
 Python Programming:  <br/>
 <!-- <img src=""/> -->
+- [Activities](https://github.com/charliecash310/Course-7-Python-Programming)
 - Explain how the Python programming language is used in Information Security
 - Use regular expressions to extract information from text
 <br />
