@@ -25,6 +25,7 @@ Literally the one skill I've had a love-hate relationship with and it took me al
 - Conducting an Internal Security Audit
 <br />
 <br />
+
 Network Security: <br/>
 <!-- <img src=""/> -->
 - Define the types of Networks and Components
@@ -32,12 +33,14 @@ Network Security: <br/>
 - Secure a network against intrusion tactics
 <br />
 <br />
+
 Linux: <br/>
 <!-- <img src=""/> -->
 - CLI Navigation
 - File and Directory Management
 <br />
 <br />
+
 Vulnerability Management:  <br/>
 <!-- <img src=""/> -->
 - Classifying Assets
@@ -46,6 +49,7 @@ Vulnerability Management:  <br/>
 - Summarize the Threat Modeling Process
 <br />
 <br />
+
 Incident Response:  <br/>
 <!-- <img src=""/> -->
 - Contain, Eradicate, and Recover from an Incident
@@ -53,6 +57,7 @@ Incident Response:  <br/>
 - Perform Queries in Security Information and Event Management
 <br />
 <br />
+
 Python Programming:  <br/>
 <!-- <img src=""/> -->
 - Explain how the Python programming language is used in Information Security
