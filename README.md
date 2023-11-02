@@ -62,7 +62,10 @@ Python Programming:  <br/>
 
 Projects // Putting It all to work:  <br/>
 <!-- <img src=""/> -->
--- TBD --
+-- ONGOING --
+
+
+
 </p>
 
 <!--
