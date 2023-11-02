@@ -27,9 +27,9 @@ Literally the one skill I've had a love-hate relationship with and it took me al
 
 Network Security: <br/>
 <!-- <img src=""/> -->
-- <b> Define the types of Networks and Components </b>
-- <b> Illustrate how data is sent and received over a network </b>
-- <b> Secure a network against intrusion tactics </b> 
+- Define the types of Networks and Components
+- Illustrate how data is sent and received over a network
+- Secure a network against intrusion tactics
 <br />
 <br />
 
