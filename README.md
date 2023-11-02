@@ -28,9 +28,9 @@ Literally the one skill I've had a love-hate relationship with and it took me al
 Network Security: <br/>
 <!-- <img src=""/> -->
 - [Course 3](https://github.com/charliecash310/Course-3---Network-Security)
-- Define the types of Networks and Components
-- Illustrate how data is sent and received over a network
-- Secure a network against intrusion tactics
+ - Define the types of Networks and Components
+ - Illustrate how data is sent and received over a network
+ - Secure a network against intrusion tactics
 <br />
 
 Linux: <br/>
