@@ -42,7 +42,7 @@ Linux: <br/>
 
 Vulnerability Management:  <br/>
 <!-- <img src=""/> -->
--[Activities](https://github.com/charliecash310/Course-5-Assets-Threats-and-Vulnerabilities)
+- [Activities](https://github.com/charliecash310/Course-5-Assets-Threats-and-Vulnerabilities)
 - Classifying Assets
 - Identify Threats, such as social engineering, malware, and web-based exploits
 - Analyze attack surface
