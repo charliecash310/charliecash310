@@ -19,17 +19,17 @@ Literally the one skill I've had a love-hate relationship with and it took me al
 <h2>Projects: </h2>
 
 <p align="left">
-Managing Risk: <br/>
+<h2> Managing Risk: </h2>
 <!-- <img src=""/> -->
 <b> Conducting an Internal Security Audit </b>
 <br />
 <br />
 
-Network Security:  <br/>
+<h2> Network Security: </h2><br/>
 <!-- <img src=""/> -->
-<b> Define the types of Networks and Components </b>
-<b> Illustrate how data is sent and received over a network </b>
-<b> Secure a network against intrusion tactics </b> 
+- <b> Define the types of Networks and Components </b>
+- <b> Illustrate how data is sent and received over a network </b>
+- <b> Secure a network against intrusion tactics </b> 
 <br />
 <br />
 
