@@ -24,7 +24,6 @@ Literally the one skill I've had a love-hate relationship with and it took me al
 <!-- <img src=""/> -->
 - Conducting an Internal Security Audit
 <br />
-<br />
 
 Network Security: <br/>
 <!-- <img src=""/> -->
