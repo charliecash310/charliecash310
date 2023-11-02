@@ -29,7 +29,7 @@ Literally the one skill I've had a love-hate relationship with and it took me al
 Network Security: <br/>
 <!-- <img src=""/> -->
 - [Activities](https://github.com/charliecash310/Course-3---Network-Security)
- - Define the types of Networks and Components
+ - Defining the types of Networks and Components
  - Illustrate how data is sent and received over a network
  - Secure a network against intrusion tactics
 <br />
