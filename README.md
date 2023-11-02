@@ -23,6 +23,7 @@ Literally the one skill I've had a love-hate relationship with and it took me al
  Managing Risk: <br/>
 <!-- <img src=""/> -->
 - [Activities](https://github.com/charliecash310/Course-2-Managing-Risks)
+- Conducting an Internal Security Audit
 <br />
 
 Network Security: <br/>
