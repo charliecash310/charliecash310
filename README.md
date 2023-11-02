@@ -19,7 +19,7 @@ Literally the one skill I've had a love-hate relationship with and it took me al
 <h2> Projects: </h2>
 
 <p align="left">
-<Managing Risk: <br/>
+Managing Risk: <br/>
 <!-- <img src=""/> -->
 <b> Conducting an Internal Security Audit </b>
 <br />
