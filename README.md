@@ -1,6 +1,8 @@
 <h1> About Me </h1>
 
-Literally the one skill I've had a love-hate relationship with and it took me all this time to make a lousy portfolio with a cliche statement. 
+- Literally the one skill I've had a love-hate relationship with and it took me all this time to make a lousy portfolio with a cliche statement.
+- Learning, evolving, and failing in order to catch-up on lost time
+
 <br />
 
 
