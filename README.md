@@ -21,7 +21,7 @@ Literally the one skill I've had a love-hate relationship with and it took me al
 <p align="left">
 Managing Risk: <br/>
 <!-- <img src=""/> -->
-<b> Conducting an Internal Security Audit </b>
+- Conducting an Internal Security Audit
 <br />
 <br />
 
@@ -42,10 +42,10 @@ Linux: <br/>
 
 Vulnerability Management:  <br/>
 <!-- <img src=""/> -->
-<b> Classifying Assets </b>
-<b> Identify Threats, such as social engineering, malware, and web-based exploits </b>
-<b> Analyze attack surface </b>
-<b> Summarize the Threat Modeling Process </b>
+- Classifying Assets
+- Identify Threats, such as social engineering, malware, and web-based exploits
+- Analyze attack surface
+- Summarize the Threat Modeling Process
 <br />
 <br />
 
