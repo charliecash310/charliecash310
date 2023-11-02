@@ -29,13 +29,14 @@ Literally the one skill I've had a love-hate relationship with and it took me al
 Network Security: <br/>
 <!-- <img src=""/> -->
 - [Activities](https://github.com/charliecash310/Course-3---Network-Security)
- - Defining the types of Networks and Components
- - Illustrate how data is sent and received over a network
- - Secure a network against intrusion tactics
+- Defining the types of Networks and Components
+- Illustrate how data is sent and received over a network
+- Secure a network against intrusion tactics
 <br />
 
 Linux: <br/>
 <!-- <img src=""/> -->
+- [Activities](https://github.com/charliecash310/Course-4---Linux-SQL)
 - CLI Navigation
 - File and Directory Management
 <br />
