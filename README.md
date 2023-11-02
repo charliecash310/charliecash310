@@ -16,16 +16,16 @@ Literally the one skill I've had a love-hate relationship with and it took me al
 
 - <b> Linux </b> (Kali/Parrot)
 
-<h2>Projects: </h2>
+<h2> Projects: </h2>
 
 <p align="left">
-<h2> Managing Risk: </h2>
+<Managing Risk: <br/>
 <!-- <img src=""/> -->
 <b> Conducting an Internal Security Audit </b>
 <br />
 <br />
 
-<h2> Network Security: </h2><br/>
+Network Security: <br/>
 <!-- <img src=""/> -->
 - <b> Define the types of Networks and Components </b>
 - <b> Illustrate how data is sent and received over a network </b>
