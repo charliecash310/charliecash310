@@ -68,7 +68,8 @@ Python Programming:  <br/>
 Projects // Putting It all to work:  <br/>
 <!-- <img src=""/> -->
 -- ONGOING --
-
+[Activities](https://github.com/charliecash310/PROJECTS)
+-- ONGOING --
 
 
 </p>
