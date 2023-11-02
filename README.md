@@ -27,8 +27,8 @@ Network Security:  <br/>
 <img src=""/>
 <br />
 <br />
-Linux // Suricata: <br/>
-<img src="https://i.imgur.com/GSCddOA.png"/>
+Linux: <br/>
+<img src=""/>
 <br />
 <br />
 Vulnerability Management:  <br/>
