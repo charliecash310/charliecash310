@@ -51,6 +51,7 @@ Vulnerability Management:  <br/>
 
 Incident Response:  <br/>
 <!-- <img src=""/> -->
+- [Activities](https://github.com/charliecash310/Course-6-Incident-Response)
 - Contain, Eradicate, and Recover from an Incident
 - Analyze packets to interpret network communications
 - Perform Queries in Security Information and Event Management
