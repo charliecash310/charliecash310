@@ -14,6 +14,7 @@
 <h2><b> Environments Used </b></h2>
 
 - <b> Linux </b> (Kali/Parrot)
+- <b> Windows </b> (XP, Vista, 7, 10, 11)
 
 <h2> Projects: </h2>
 
