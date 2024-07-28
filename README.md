@@ -71,6 +71,9 @@ Projects // Putting It all to work:  <br/>
 -- ONGOING --
 [Activities](https://github.com/charliecash310/PROJECTS)
 -- ONGOING --
+-HackTheBox-
+-freeCodeCamp-
+-PortSwigger-
 
 
 </p>
