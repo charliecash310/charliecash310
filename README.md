@@ -1,7 +1,5 @@
 <h1> About Me </h1>
-
 - Nothing to see here other than learning, evolving, and failing in order to catch-up on lost time.
-
 <br />
 
 
