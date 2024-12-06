@@ -63,6 +63,14 @@ Python Programming:  <br/>
 <br />
 <br />
 
+Cisco Network Academy:  <br/>
+<!-- <img src=""/> -->
+<!-- [Activities]() -->
+- Ethical Hacker Course
+- Kali Linux, Offensive Security
+<br />
+<br />
+
 Projects // Putting It all to work:  <br/>
 <!-- <img src=""/> -->
 -- ONGOING --
