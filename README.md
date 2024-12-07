@@ -65,7 +65,7 @@ Python Programming:  <br/>
 
 Cisco Network Academy:  <br/>
 <!-- <img src=""/> -->
-<!-- [Activities]() -->
+- [Activities](https://github.com/charliecash310/Cisco-Networking-Academy)
 - Ethical Hacker Course
 - Kali Linux, Offensive Security
 <br />
