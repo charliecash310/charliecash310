@@ -17,54 +17,16 @@
 
 <p align="left">
 
- Managing Risk: <br/>
- Network Security: <br/>
-<!--
+Google Cybersecurity 2023: <br/>
 <!-- <img src=""/> -->
-<!-- [Activities](https://github.com/charliecash310/Course-2-Managing-Risks)
-- Conducting an Internal Security Audit
+- [Activities]()
+- Manage Security Risk
+- Network Security
+- Linux
+- Vulnerability Management
+- Incident Repsonse
+- Python Programming
 <br />
-
-Network Security: <br/>
-<!-- <img src=""/> -->
-- [Activities](https://github.com/charliecash310/Course-3---Network-Security)
-- Defining the types of Networks and Components
-- Illustrate how data is sent and received over a network
-- Secure a network against intrusion tactics
-<br />
-
-Linux: <br/>
-<!-- <img src=""/> -->
-- [Activities](https://github.com/charliecash310/Course-4---Linux-SQL)
-- CLI Navigation
-- File and Directory Management
-<br />
-
-Vulnerability Management:  <br/>
-<!-- <img src=""/> -->
-- [Activities](https://github.com/charliecash310/Course-5-Assets-Threats-and-Vulnerabilities)
-- Classifying Assets
-- Identify Threats, such as social engineering, malware, and web-based exploits
-- Analyze attack surface
-- Summarize the Threat Modeling Process
-<br />
-
-Incident Response:  <br/>
-<!-- <img src=""/> -->
-- [Activities](https://github.com/charliecash310/Course-6-Incident-Response)
-- Contain, Eradicate, and Recover from an Incident
-- Analyze packets to interpret network communications
-- Perform Queries in Security Information and Event Management
-<br />
-
-Python Programming:  <br/>
-<!-- <img src=""/> -->
-- [Activities](https://github.com/charliecash310/Course-7-Python-Programming)
-- Explain how the Python programming language is used in Information Security
-- Use regular expressions to extract information from text
-<br />
-<br />
-
 
 
 Cisco Network Academy:  <br/>
