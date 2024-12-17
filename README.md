@@ -43,8 +43,8 @@ Projects // Putting It all to work:  <br/>
 <!-- <img src=""/> -->
 - Azure: Create a Virtual Machine and Deploy a Web Server
 </br>
--- ONGOING --
-[Activities](https://github.com/charliecash310/PROJECTS)
+
+- [Activities](https://github.com/charliecash310/PROJECTS)
 -- ONGOING --
 - HackTheBox
 - freeCodeCamp
