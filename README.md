@@ -18,8 +18,10 @@
 <p align="left">
 
  Managing Risk: <br/>
+ Network Security: <br/>
+<!--
 <!-- <img src=""/> -->
-- [Activities](https://github.com/charliecash310/Course-2-Managing-Risks)
+<!-- [Activities](https://github.com/charliecash310/Course-2-Managing-Risks)
 - Conducting an Internal Security Audit
 <br />
 
@@ -62,6 +64,8 @@ Python Programming:  <br/>
 - Use regular expressions to extract information from text
 <br />
 <br />
+
+
 
 Cisco Network Academy:  <br/>
 <!-- <img src=""/> -->
