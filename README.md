@@ -7,7 +7,9 @@
 
 - <b> Bash CLI </b> 
 - <b> Python </b>
-- <b> HTML, CSS, JAVA </b>
+- <b> HTML </b>
+- <b> CSS </b>
+- <b> Javascript </b>
 <h2><b> Environments Used </b></h2>
 
 - <b> Linux </b> (Kali/Parrot)
