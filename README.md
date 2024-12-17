@@ -41,6 +41,8 @@ Cisco Network Academy:  <br/>
 
 Projects // Putting It all to work:  <br/>
 <!-- <img src=""/> -->
+- Azure: Create a Virtual Machine and Deploy a Web Server
+------------------------------------------------------------------------------
 -- ONGOING --
 [Activities](https://github.com/charliecash310/PROJECTS)
 -- ONGOING --
