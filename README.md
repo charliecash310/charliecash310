@@ -19,7 +19,7 @@
 
 Google Cybersecurity 2023: <br/>
 <!-- <img src=""/> -->
-- [Activities]()
+- [Activities](https://github.com/charliecash310/GoogleCS2023)
 - Manage Security Risk
 - Network Security
 - Linux
