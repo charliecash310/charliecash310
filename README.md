@@ -19,7 +19,7 @@
 
 <p align="left">
 
-Google Cybersecurity 2023: <br/>
+Google Cybersecurity: <br/>
 <!-- <img src=""/> -->
 - [Activities](https://github.com/charliecash310/GoogleCS2023)
 - Manage Security Risk
