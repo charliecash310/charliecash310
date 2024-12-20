@@ -44,6 +44,8 @@ Projects // Putting It all to work:  <br/>
 - [Azure: Create a Virtual Machine and Deploy a Web Server](https://github.com/charliecash310/Azure---VM---Webserver/blob/main/README.md)
 </br>
 
+- Create a Virtual Private Cloud (VPC) Using AWS
+
 -- ONGOING --
 - HackTheBox
 - freeCodeCamp
