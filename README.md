@@ -39,11 +39,9 @@ Cisco Network Academy:  <br/>
 <br />
 <br />
 
-Projects // Putting It all to work:  <br/>
+Projects // Putting It all to work:
 <!-- <img src=""/> -->
 - [Azure: Create a Virtual Machine and Deploy a Web Server](https://github.com/charliecash310/Azure---VM---Webserver/blob/main/README.md)
-</br>
-
 - Create a Virtual Private Cloud (VPC) Using AWS
 
 -- ONGOING --
