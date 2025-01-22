@@ -42,7 +42,7 @@ Cisco Network Academy:  <br/>
 Projects // Putting It all to work:
 <!-- <img src=""/> -->
 - [Azure: Create a Virtual Machine and Deploy a Web Server](https://github.com/charliecash310/Azure---VM---Webserver/blob/main/README.md)
-- Create a Virtual Private Cloud (VPC) Using AWS
+- ChatGPT for Cybersecurity
 
 -- ONGOING --
 - HackTheBox
