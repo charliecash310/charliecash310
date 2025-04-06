@@ -45,11 +45,6 @@ Projects // Putting It all to work:
 - [ChatGPT for Cybersecurity](https://github.com/charliecash310/OpenAI-Cookbook)
 - Skyshield Technologies
 
--- ONGOING --
-- HackTheBox
-- freeCodeCamp
-- PortSwigger
-
 <br />
 
 </p>
