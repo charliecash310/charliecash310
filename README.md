@@ -43,7 +43,7 @@ Projects // Putting It all to work:
 <!-- <img src=""/> -->
 - [Azure: Create a Virtual Machine and Deploy a Web Server](https://github.com/charliecash310/Azure---VM---Webserver/blob/main/README.md)
 - [ChatGPT for Cybersecurity](https://github.com/charliecash310/OpenAI-Cookbook)
-- Windows Active Directory Lab
+- Skyshield Technologies
 
 -- ONGOING --
 - HackTheBox
