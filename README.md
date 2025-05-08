@@ -43,8 +43,7 @@ Projects // Putting It all to work:
 <!-- <img src=""/> -->
 - [Azure: Create a Virtual Machine and Deploy a Web Server](https://github.com/charliecash310/Azure---VM---Webserver/blob/main/README.md)
 - [ChatGPT for Cybersecurity](https://github.com/charliecash310/OpenAI-Cookbook)
-- Skyshield Technologies
-- SOC Analyst Lab // Blue Team // Red Team // Exercise
+- [SOC Analyst Lab // Blue Team // Red Team // Exercise](https://github.com/charliecash310/SOC-LAB-Blue-Team-Red-Team)
 
 <br />
 
