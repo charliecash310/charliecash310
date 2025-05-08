@@ -21,7 +21,7 @@
 
 Google Cybersecurity: <br/>
 <!-- <img src=""/> -->
-- [Activities](https://github.com/charliecash310/GoogleCS2023)
+- [Activities](https://github.com/charliecash310/Google-Cybsersecurity)
 - Manage Security Risk
 - Network Security
 - Linux
