@@ -35,6 +35,9 @@ Cisco Network Academy:  <br/>
 <!-- <img src=""/> -->
 - [Activities](https://github.com/charliecash310/Cisco-Networking-Academy)
 - Ethical Hacker Course
+- Network Defense
+- Endpoint Detection
+- IT Support 
 - Kali Linux, Offensive Security
 <br />
 <br />
