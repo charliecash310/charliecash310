@@ -48,6 +48,7 @@ Projects // Putting It all to work:
 - [ChatGPT for Cybersecurity](https://github.com/charliecash310/OpenAI-Cookbook)
 - [SOC Analyst Lab // Blue Team // Red Team // Exercise](https://github.com/charliecash310/SOC-LAB-Blue-Team-Red-Team)
 - [Vulnsite](https://github.com/charliecash310/vulnsite-demo)
+- [Threat Hunt Scenario: Silent Powershell Dropper with Persistence](https://github.com/charliecash310/silent-dropper-lab)
 <br />
 
 </p>
