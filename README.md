@@ -29,6 +29,7 @@ Google Cybersecurity: <br/>
 - Incident Repsonse
 - Python Programming
 <br />
+
 Cisco Network Academy:  <br/>
 <!-- <img src=""/> -->
 - Activities
@@ -38,6 +39,7 @@ Cisco Network Academy:  <br/>
 - IT Support 
 - Kali Linux, Offensive Security
 <br />
+
 <br />
 Projects // Putting It all to work:
 <!-- <img src=""/> -->
@@ -45,13 +47,16 @@ Projects // Putting It all to work:
 - [ChatGPT for Cybersecurity](https://github.com/charliecash310/OpenAI-Cookbook)
 - [SOC Analyst Lab // Blue Team // Red Team // Exercise](https://github.com/charliecash310/SOC-LAB-Blue-Team-Red-Team)
 - [Vulnsite](https://github.com/charliecash310/vulnsite-demo)
+
 <br />
 Vulnerability Remediation
 - [Vulnerability Management Program](https://github.com/charliecash310/Vulnerability-Management-Program-)
 - [Applying STIGS with Powershell using Windows 10](https://github.com/charliecash310/DISA-STIG-Applying-STIGs-with-PowerShell-win10-stig-WN10-AU-000500-lab)
+
 <br />
 Threat Hunting
 - [Threat Hunt Scenario: Silent Powershell Dropper with Persistence](https://github.com/charliecash310/silent-dropper-lab)
+
 <br />
 
 </p>
