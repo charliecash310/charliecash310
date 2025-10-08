@@ -45,7 +45,6 @@ Cisco Network Academy:  <br/>
 Projects // Putting It all to work:
 <!-- <img src=""/> -->
 - [Azure: Create a Virtual Machine and Deploy a Web Server](https://github.com/charliecash310/Azure---VM---Webserver/blob/main/README.md)
-- [ChatGPT for Cybersecurity](https://github.com/charliecash310/OpenAI-Cookbook)
 - [SOC Analyst Lab // Blue Team // Red Team // Exercise](https://github.com/charliecash310/SOC-LAB-Blue-Team-Red-Team)
 - [Vulnsite](https://github.com/charliecash310/vulnsite-demo)
 
@@ -62,6 +61,11 @@ Vulnerability Management
 
 Threat Hunting
 - [Threat Hunt Scenario: Silent Powershell Dropper with Persistence](https://github.com/charliecash310/silent-dropper-lab)
+
+<br />
+
+AI
+- [ChatGPT for Cybersecurity](https://github.com/charliecash310/OpenAI-Cookbook)
 
 <br />
 
