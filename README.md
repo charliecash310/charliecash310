@@ -53,7 +53,8 @@ Projects // Putting It all to work:
 
 Vulnerability Management
 - [Vulnerability Management Program](https://github.com/charliecash310/Vulnerability-Management-Program-)
-- [Applying STIGS with Powershell using Windows 10](https://github.com/charliecash310/DISA-STIG-Applying-STIGs-with-PowerShell-win10-stig-WN10-AU-000500-lab)
+- [Applying Stigs with Powershell]
+- [WN10-AU-000500](https://github.com/charliecash310/DISA-STIG-Applying-STIGs-with-PowerShell-win10-stig-WN10-AU-000500-lab)
 
 <br />
 
