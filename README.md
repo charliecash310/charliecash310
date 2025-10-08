@@ -41,6 +41,7 @@ Cisco Network Academy:  <br/>
 <br />
 
 <br />
+
 Projects // Putting It all to work:
 <!-- <img src=""/> -->
 - [Azure: Create a Virtual Machine and Deploy a Web Server](https://github.com/charliecash310/Azure---VM---Webserver/blob/main/README.md)
@@ -49,11 +50,13 @@ Projects // Putting It all to work:
 - [Vulnsite](https://github.com/charliecash310/vulnsite-demo)
 
 <br />
+
 Vulnerability Remediation
 - [Vulnerability Management Program](https://github.com/charliecash310/Vulnerability-Management-Program-)
 - [Applying STIGS with Powershell using Windows 10](https://github.com/charliecash310/DISA-STIG-Applying-STIGs-with-PowerShell-win10-stig-WN10-AU-000500-lab)
 
 <br />
+
 Threat Hunting
 - [Threat Hunt Scenario: Silent Powershell Dropper with Persistence](https://github.com/charliecash310/silent-dropper-lab)
 
