@@ -56,6 +56,7 @@ Vulnerability Management
 - Applying Stigs with Powershell
 - [WN10-AU-000500](https://github.com/charliecash310/DISA-STIG-Applying-STIGs-with-PowerShell-win10-stig-WN10-AU-000500-lab)
 - [WN11-CC-000315](https://github.com/charliecash310/DISA-STIG-Applying-STIGs-with-PowerShell-win11-stig-WN11-CC-000315-lab)
+- [WN11-AU-000105](https://github.com/charliecash310/DISA-STIG-Applying-STIGs-with-PowerShell-win11-stig-WN11-AU-000105-lab)
 
 <br />
 
