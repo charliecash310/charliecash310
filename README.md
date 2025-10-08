@@ -64,7 +64,7 @@ Threat Hunting
 
 <br />
 
-AI
+Artificial Intelligence
 - [ChatGPT for Cybersecurity](https://github.com/charliecash310/OpenAI-Cookbook)
 
 <br />
