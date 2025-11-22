@@ -59,6 +59,7 @@ Vulnerability Management
 
 Threat Hunting
 - [Threat Hunt Scenario: Silent Powershell Dropper with Persistence](https://github.com/charliecash310/silent-dropper-lab)
+- [Threat Hunt Community Events / KC7](https://github.com/charliecash310/Threat-Hunt-Reports)
 
 <br />
 
