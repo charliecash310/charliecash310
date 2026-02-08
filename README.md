@@ -33,18 +33,15 @@ Cisco Network Academy:<br/>
 - IT Support 
 - Kali Linux, Offensive Security
 <br />
-
+------------------------
 <br />
 
 ### Applied Projects
-<!-- <img src=""/> -->
 - [Azure: Create a Virtual Machine and Deploy a Web Server](https://github.com/charliecash310/Azure---VM---Webserver/blob/main/README.md)
-  
 - [SOC Analyst Lab // Blue Team // Red Team // Exercise](https://github.com/charliecash310/SOC-LAB-Blue-Team-Red-Team)
   - Built a multi-VM lab simulating attacker and defender activity
   - Generated malicious telemetry and validated detections
   - Analyzed alerts, logs, and persistence mechanisms
-    
 - [Vulnsite](https://github.com/charliecash310/vulnsite-demo)
 
 <br />
