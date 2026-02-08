@@ -1,8 +1,7 @@
 <b> 
 <h1>About Me</h1>
-Cybersecurity practitioner focused on defensive security, threat hunting, and vulnerability management.
+Security practitioner focused on defensive security, threat hunting, and vulnerability management.
 I build labs, break systems, analyze telemetry, and document failures until they stop failing.
-
 This repository is a living record of hands-on work across blue team, red team, and infrastructure security.
 </b>
 <br />
