@@ -32,9 +32,8 @@ Google Cybersecurity: <br/>
 
 Cisco Network Academy:  <br/>
 <!-- <img src=""/> -->
-- Activities
 - [Ethical Hacker Course](https://github.com/charliecash310/Cisco-Networking-Academy)
-- Network Defense
+- [Network Defense](https://github.com/charliecash310/Cisco-Network-Academy---Network-Defense)
 - Endpoint Detection
 - IT Support 
 - Kali Linux, Offensive Security
