@@ -22,14 +22,12 @@ This repository is a living record of hands-on work across blue team, red team, 
 <p align="left">
 
 ## Training & Coursework
-Google Cybersecurity: 
-<br/>
+Google Cybersecurity:<br/>
 <!-- <img src=""/> -->
 - [Activities](https://github.com/charliecash310/Google-Cybsersecurity)
 <br />
 
-Cisco Network Academy:  
-<br/>
+Cisco Network Academy:<br/>
 <!-- <img src=""/> -->
 - [Ethical Hacker Course](https://github.com/charliecash310/Cisco-Networking-Academy)
 - [Network Defense](https://github.com/charliecash310/Cisco-Network-Academy---Network-Defense)
