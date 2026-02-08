@@ -51,20 +51,23 @@ Cisco Network Academy:<br/>
 
 <br />
 
-Vulnerability Management
+## Vulnerability Management
 - [Vulnerability Management Program](https://github.com/charliecash310/Vulnerability-Management-Program-)
 - [Applying Stigs with Powershell](https://github.com/charliecash310/DISA-STIG-Applying-STIGs-with-PowerShell-win11-stig-)
 
 
 <br />
 
-Threat Hunting
+## Threat Hunting
 - [Threat Hunt Scenario: Silent Powershell Dropper with Persistence](https://github.com/charliecash310/silent-dropper-lab)
 - [Threat Hunt Community Events / KC7](https://github.com/charliecash310/Threat-Hunt-Reports)
+- Focused on persistence, PowerShell abuse, and behavioral detection.
+- Silent PowerShell Dropper with Persistence
+- Community Threat Hunt Events (KC7)
 
 <br />
 
-Artificial Intelligence
+## Artificial Intelligence
 - [ChatGPT for Cybersecurity](https://github.com/charliecash310/OpenAI-Cookbook)
 
 <br />
