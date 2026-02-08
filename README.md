@@ -36,7 +36,7 @@ Cisco Network Academy:<br/>
 
 <br />
 
-## Applied Projects
+### Applied Projects
 <!-- <img src=""/> -->
 - [Azure: Create a Virtual Machine and Deploy a Web Server](https://github.com/charliecash310/Azure---VM---Webserver/blob/main/README.md)
   
@@ -65,11 +65,14 @@ Cisco Network Academy:<br/>
 
 <br />
 
-## ## Applied AI in Cybersecurity
+## Applied AI in Cybersecurity
 - [ChatGPT for Cybersecurity](https://github.com/charliecash310/OpenAI-Cookbook)
 - Using ChatGPT for threat analysis, documentation, and automation
 
 <br />
+
+---
+This portfolio reflects how I learn: build, break, analyze, document—repeat.
 
 </p>
 
