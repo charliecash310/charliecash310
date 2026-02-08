@@ -1,4 +1,5 @@
-<b> ## About Me
+<b> 
+## About Me
 Cybersecurity practitioner focused on defensive security, threat hunting, and vulnerability management.
 I build labs, break systems, analyze telemetry, and document failures until they stop failing.
 
