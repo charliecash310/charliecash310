@@ -17,8 +17,6 @@ This repository is a living record of hands-on work across blue team, red team, 
 - <b> Linux </b> (Kali/Parrot/Ubuntu/Debian)
 - <b> Windows </b> (XP, Vista, 7, 10, 11)
 
-<h2> Projects: </h2>
-
 <p align="left">
 
 ## Training & Coursework
