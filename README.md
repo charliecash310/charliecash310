@@ -65,8 +65,9 @@ Cisco Network Academy:<br/>
 
 <br />
 
-## Artificial Intelligence
+## ## Applied AI in Cybersecurity
 - [ChatGPT for Cybersecurity](https://github.com/charliecash310/OpenAI-Cookbook)
+- Using ChatGPT for threat analysis, documentation, and automation
 
 <br />
 
