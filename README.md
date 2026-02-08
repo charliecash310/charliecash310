@@ -36,6 +36,7 @@ Cisco Network Academy:<br/>
 
 
 <br />
+
 ## Applied Projects
 - [Azure: Create a Virtual Machine and Deploy a Web Server](https://github.com/charliecash310/Azure---VM---Webserver/blob/main/README.md)
 
