@@ -1,15 +1,17 @@
-<h1> About Me </h1>
- <b> Nothing to see here other than learning, evolving, and failing in order to catch-up on lost time.</b>
+<b> ## About Me
+Cybersecurity practitioner focused on defensive security, threat hunting, and vulnerability management.
+I build labs, break systems, analyze telemetry, and document failures until they stop failing.
+
+This repository is a living record of hands-on work across blue team, red team, and infrastructure security.
+</b>
 <br />
 
+## Technical Skills
 
-<h2>Languages and Utilities Used</h2>
+- **Scripting & Automation:** Bash, Python
+- **Web Technologies:** HTML, CSS, JavaScript (security testing & lab environments)
+- **CLI Proficiency:** Linux-first workflows
 
-- <b> Bash CLI </b> 
-- <b> Python </b>
-- <b> HTML </b>
-- <b> CSS </b>
-- <b> Javascript </b>
 <h2><b> Environments Used </b></h2>
 
 - <b> Linux </b> (Kali/Parrot/Ubuntu/Debian)
@@ -19,17 +21,11 @@
 
 <p align="left">
 
+## Training & Coursework
 Google Cybersecurity: <br/>
 <!-- <img src=""/> -->
 - [Activities](https://github.com/charliecash310/Google-Cybsersecurity)
-- Manage Security Risk
-- Network Security
-- Linux
-- Vulnerability Management
-- Incident Repsonse
-- Python Programming
 <br />
-
 Cisco Network Academy:  <br/>
 <!-- <img src=""/> -->
 - [Ethical Hacker Course](https://github.com/charliecash310/Cisco-Networking-Academy)
@@ -41,10 +37,15 @@ Cisco Network Academy:  <br/>
 
 <br />
 
-Projects // Putting It all to work:
+## Applied Projects
 <!-- <img src=""/> -->
 - [Azure: Create a Virtual Machine and Deploy a Web Server](https://github.com/charliecash310/Azure---VM---Webserver/blob/main/README.md)
+  
 - [SOC Analyst Lab // Blue Team // Red Team // Exercise](https://github.com/charliecash310/SOC-LAB-Blue-Team-Red-Team)
+  - Built a multi-VM lab simulating attacker and defender activity
+  - Generated malicious telemetry and validated detections
+  - Analyzed alerts, logs, and persistence mechanisms
+    
 - [Vulnsite](https://github.com/charliecash310/vulnsite-demo)
 
 <br />
