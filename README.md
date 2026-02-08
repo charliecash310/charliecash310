@@ -33,9 +33,8 @@ Cisco Network Academy:<br/>
 - IT Support 
 - Kali Linux, Offensive Security
 <br />
-------------------------
-<br />
 
+<br />
 ### Applied Projects
 - [Azure: Create a Virtual Machine and Deploy a Web Server](https://github.com/charliecash310/Azure---VM---Webserver/blob/main/README.md)
 - [SOC Analyst Lab // Blue Team // Red Team // Exercise](https://github.com/charliecash310/SOC-LAB-Blue-Team-Red-Team)
