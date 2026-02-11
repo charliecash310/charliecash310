@@ -77,5 +77,3 @@ Focused on persistence mechanisms, PowerShell abuse, and behavioral detection.
 - Using AI to assist with threat analysis, documentation, and automation workflows
 
 ---
-
-**This portfolio reflects how I learn:** build, break, analyze, document—repeat.
