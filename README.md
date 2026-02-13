@@ -67,7 +67,7 @@ This repository is a living record of hands-on work across blue team, red team, 
 Focused on persistence mechanisms, PowerShell abuse, and behavioral detection.
 
 - [Silent PowerShell Dropper with Persistence](https://github.com/charliecash310/silent-dropper-lab)
-- [Threat Hunt Community Events (KC7)](https://github.com/charliecash310/Threat-Hunt-Reports)
+- [Threat Hunt - Log Analysis](https://github.com/charliecash310/Threat-Hunt-Reports)
 
 ---
 
