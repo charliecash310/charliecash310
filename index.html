@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#071014">
+  <title>ATLAS // Security Validation Command</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="grid-noise"></div>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <a href="#" class="brand" aria-label="Atlas home">
+        <span class="brand-mark"><span></span></span>
+        <span><b>ATLAS</b><small>SECURITY VALIDATION</small></span>
+      </a>
+
+      <nav class="main-nav" aria-label="Primary navigation">
+        <p class="nav-label">COMMAND</p>
+        <a href="#" class="active"><span class="icon">⌂</span>Overview</a>
+        <a href="#campaigns"><span class="icon">◎</span>Campaigns<span class="nav-count">12</span></a>
+        <a href="#detections"><span class="icon">⌁</span>Detections<span class="live-dot"></span></a>
+        <a href="#assets"><span class="icon">◇</span>Assets</a>
+        <p class="nav-label">OPERATIONS</p>
+        <a href="#red"><span class="icon red-icon">↗</span>Red Team</a>
+        <a href="#blue"><span class="icon blue-icon">⊙</span>Blue Team</a>
+        <a href="#purple"><span class="icon purple-icon">✣</span>Purple Team</a>
+        <a href="#intelligence"><span class="icon">⌬</span>Intelligence</a>
+        <p class="nav-label">SYSTEM</p>
+        <a href="#integrations"><span class="icon">⊞</span>Integrations</a>
+        <a href="#reports"><span class="icon">▤</span>Reports</a>
+      </nav>
+
+      <div class="posture-card">
+        <div class="posture-top"><span>SECURITY POSTURE</span><b>74</b></div>
+        <div class="posture-bar"><i></i></div>
+        <p><span class="trend">↑ 6.2%</span> from last assessment</p>
+      </div>
+      <div class="user-card">
+        <div class="avatar">CC</div><div><b>Charlie Cash</b><span>Platform Admin</span></div><button aria-label="User menu">•••</button>
+      </div>
+    </aside>
+
+    <main>
+      <header class="topbar">
+        <div class="breadcrumb"><span>ATLAS</span><i>/</i><b>COMMAND CENTER</b></div>
+        <div class="top-actions">
+          <div class="system-status"><i></i> ALL SYSTEMS OPERATIONAL</div>
+          <button class="icon-button" aria-label="Search" id="searchBtn">⌕</button>
+          <button class="icon-button notification" aria-label="Notifications">♢<i></i></button>
+          <button class="primary-button" id="newCampaign"><span>＋</span> NEW CAMPAIGN</button>
+        </div>
+      </header>
+
+      <div class="content">
+        <section class="hero-row">
+          <div>
+            <p class="eyebrow">// UNIFIED SECURITY OPERATIONS</p>
+            <h1>Command Center</h1>
+            <p class="subtitle">Continuous validation across your entire attack surface.</p>
+          </div>
+          <div class="range-select"><span>TIME RANGE</span><button id="rangeButton">Last 30 days <b>⌄</b></button></div>
+        </section>
+
+        <section class="metrics-grid">
+          <article class="metric-card score-card">
+            <div class="metric-head"><span>VALIDATION SCORE</span><span class="tag green">+4.8%</span></div>
+            <div class="score-body"><div class="score-ring"><span><b>74</b><small>/100</small></span></div><div><strong>GOOD</strong><p>Security controls are performing above the industry benchmark.</p></div></div>
+          </article>
+          <article class="metric-card">
+            <div class="metric-head"><span>ATTACKS SIMULATED</span><span class="mini-icon red">↗</span></div>
+            <div class="metric-value">1,248</div>
+            <div class="metric-foot"><span><b class="red-text">214</b> breached</span><i></i><span><b>1,034</b> blocked</span></div>
+          </article>
+          <article class="metric-card">
+            <div class="metric-head"><span>DETECTION COVERAGE</span><span class="mini-icon blue">⌁</span></div>
+            <div class="metric-value">87.3<span>%</span></div>
+            <div class="spark-bars" aria-label="Detection coverage trend"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+          </article>
+          <article class="metric-card">
+            <div class="metric-head"><span>MEAN TIME TO DETECT</span><span class="mini-icon purple">◷</span></div>
+            <div class="metric-value">4<span>m</span> 12<span>s</span></div>
+            <div class="metric-foot"><span class="green-text">↓ 38s faster</span><i></i><span>vs. previous period</span></div>
+          </article>
+        </section>
+
+        <section class="operations-grid">
+          <article class="panel campaign-panel" id="campaigns">
+            <div class="panel-header"><div><p class="eyebrow">// LIVE OPERATIONS</p><h2>Active Campaigns</h2></div><button class="text-button">VIEW ALL <span>→</span></button></div>
+            <div class="campaign-list">
+              <div class="campaign-row">
+                <div class="campaign-symbol red"><span>↗</span></div>
+                <div class="campaign-info"><div><b>Operation Nightfall</b><span class="status running"><i></i> RUNNING</span></div><p>Full kill-chain · FIN7 emulation</p></div>
+                <div class="progress-wrap"><span><b>68%</b> COMPLETE</span><div><i style="width:68%"></i></div></div>
+                <div class="campaign-stat"><b>47</b><span>TECHNIQUES</span></div>
+                <div class="campaign-stat danger"><b>12</b><span>BREACHED</span></div>
+                <button class="more-button">•••</button>
+              </div>
+              <div class="campaign-row">
+                <div class="campaign-symbol purple"><span>✣</span></div>
+                <div class="campaign-info"><div><b>Identity Under Siege</b><span class="status scheduled">SCHEDULED</span></div><p>Active Directory · Credential access</p></div>
+                <div class="progress-wrap"><span><b>STARTS IN 02:14:38</b></span><div class="inactive"></div></div>
+                <div class="campaign-stat"><b>23</b><span>TECHNIQUES</span></div>
+                <div class="campaign-stat muted"><b>—</b><span>BREACHED</span></div>
+                <button class="more-button">•••</button>
+              </div>
+              <div class="campaign-row">
+                <div class="campaign-symbol blue"><span>⊙</span></div>
+                <div class="campaign-info"><div><b>Cloud Perimeter Check</b><span class="status validating"><i></i> VALIDATING</span></div><p>AWS · Network & IAM controls</p></div>
+                <div class="progress-wrap blue"><span><b>91%</b> COMPLETE</span><div><i style="width:91%"></i></div></div>
+                <div class="campaign-stat"><b>31</b><span>TECHNIQUES</span></div>
+                <div class="campaign-stat danger"><b>3</b><span>BREACHED</span></div>
+                <button class="more-button">•••</button>
+              </div>
+            </div>
+          </article>
+
+          <article class="panel threat-panel" id="intelligence">
+            <div class="panel-header"><div><p class="eyebrow">// THREAT SIGNALS</p><h2>Live Intelligence</h2></div><span class="live-badge"><i></i> LIVE</span></div>
+            <div class="threat-list">
+              <div><span class="severity critical">CRITICAL</span><p><b>CVE-2026-31814</b> added to active exploit catalog</p><small>2 MIN AGO · CISA KEV</small></div>
+              <div><span class="severity high">HIGH</span><p><b>SCATTERED SPIDER</b> infrastructure detected in your sector</p><small>18 MIN AGO · CROWD FEED</small></div>
+              <div><span class="severity medium">MEDIUM</span><p>New <b>QAKBOT</b> campaign targeting financial services</p><small>42 MIN AGO · MISP</small></div>
+            </div>
+            <button class="feed-button">OPEN INTELLIGENCE FEED <span>→</span></button>
+          </article>
+        </section>
+
+        <section class="capabilities" id="capabilities">
+          <div class="section-heading"><div><p class="eyebrow">// ONE PLATFORM. THREE DISCIPLINES.</p><h2>Operational Capabilities</h2></div><p>Orchestrate offensive simulation, defensive operations, and collaborative validation from a unified workspace.</p></div>
+          <div class="capability-grid">
+            <article class="cap-card red-team" id="red"><div class="cap-top"><div class="cap-icon">↗</div><span>OFFENSIVE</span></div><h3>Red Team</h3><p>Emulate real adversaries and expose control gaps before attackers do.</p><ul><li>Command & Control Frameworks <b>06</b></li><li>Initial Access & Intelligence <b>14</b></li><li>Post-Exploitation & AD <b>21</b></li><li>Adversary Emulation <b>42</b></li></ul><button>OPEN RED OPS <span>→</span></button></article>
+            <article class="cap-card blue-team" id="blue"><div class="cap-top"><div class="cap-icon">⊙</div><span>DEFENSIVE</span></div><h3>Blue Team</h3><p>Detect, investigate, and respond with total visibility across your estate.</p><ul><li>SIEM & Log Management <b>8.4 TB</b></li><li>EDR & XDR <b>2,841</b></li><li>Network Analysis <b>LIVE</b></li><li>DFIR & Vulnerability Mgmt <b>128</b></li></ul><button>OPEN BLUE OPS <span>→</span></button></article>
+            <article class="cap-card purple-team" id="purple"><div class="cap-top"><div class="cap-icon">✣</div><span>COLLABORATIVE</span></div><h3>Purple Team</h3><p>Turn every simulation into measurable detection and response improvement.</p><ul><li>Exercise & Simulation Manager <b>12</b></li><li>Breach & Attack Simulation <b>24/7</b></li><li>Adversary Emulation Library <b>164</b></li><li>Detection Engineering <b>87%</b></li></ul><button>OPEN PURPLE OPS <span>→</span></button></article>
+          </div>
+        </section>
+      </div>
+    </main>
+  </div>
+
+  <div class="modal-backdrop" id="campaignModal" aria-hidden="true">
+    <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+      <button class="modal-close" id="modalClose" aria-label="Close">×</button><p class="eyebrow">// CAMPAIGN BUILDER</p><h2 id="modalTitle">Launch a validation</h2><p>Select the operational discipline to begin configuring a safe, authorized simulation.</p>
+      <div class="modal-options"><button><i class="red">↗</i><b>Red Team</b><span>Adversary emulation</span></button><button><i class="blue">⊙</i><b>Blue Team</b><span>Control validation</span></button><button><i class="purple">✣</i><b>Purple Team</b><span>Collaborative exercise</span></button></div>
+    </div>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
